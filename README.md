@@ -37,3 +37,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
     email                 password
     admin@formless.ca     password
+
+
+# Functionality
+## User authentication using Firebase via login
+## Creating forms and submitting and storing them to Firebase Database
+## Reading forms from the database and dynamically displaying in UI
